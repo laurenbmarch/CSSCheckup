@@ -1,8 +1,26 @@
+body {
+    background-color:darkcyan;
+}
 .wrapper {
     margin: 5px
 }
-
 h1 {
     text-align: center;
 }
-
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Recipes {
+border-style: groove;
+font-family: Georgia, 'Times New Roman', Times, serif;
+height: 700px;
+    width: 40%;
+    background-color: lightblue;
+}
+.Recipes li{
+    font-style:italic;
+}
+#important{
+    color:blue
+}
